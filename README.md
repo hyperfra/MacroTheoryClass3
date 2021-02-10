@@ -1,2 +1,2 @@
 # MacroTheoryClass3
-Ramsey Model Part III
+Ramsey Model Part II
