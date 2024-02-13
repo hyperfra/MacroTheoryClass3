@@ -3,7 +3,7 @@
  *
  * By Hakim El Hattab, http://hakim.se
  */
-@import url(https://github.com/hakimel/reveal.js/tree/f149d1f7ca97e6054080a889f1dbb0d9dbd8c28c/dist/theme/fonts/source-sans-pro);
+@import url(plugin/fonts/source-sans-pro/source-sans-pro.css);
 section.has-light-background, section.has-light-background h1, section.has-light-background h2, section.has-light-background h3, section.has-light-background h4, section.has-light-background h5, section.has-light-background h6 {
   color: #222; }
 
